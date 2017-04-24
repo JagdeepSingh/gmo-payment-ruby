@@ -6,7 +6,7 @@
 # gmo = GMO::Payment::AccountAPI.new({
 #   shop_id:     "foo",
 #   shop_pass:   "bar",
-#   host:  "mul-pay.com"
+#   host:  "test-remittance.gmopg.jp"
 # })
 module GMO
   module Payment
